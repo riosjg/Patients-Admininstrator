@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Patients-Admininstrator/static/css/main.4c798faf.chunk.css",
-    "main.js": "/Patients-Admininstrator/static/js/main.391ff665.chunk.js",
-    "main.js.map": "/Patients-Admininstrator/static/js/main.391ff665.chunk.js.map",
+    "main.js": "/Patients-Admininstrator/static/js/main.dd8ef1e5.chunk.js",
+    "main.js.map": "/Patients-Admininstrator/static/js/main.dd8ef1e5.chunk.js.map",
     "runtime-main.js": "/Patients-Admininstrator/static/js/runtime-main.f4e28184.js",
     "runtime-main.js.map": "/Patients-Admininstrator/static/js/runtime-main.f4e28184.js.map",
     "static/js/2.c0186c9a.chunk.js": "/Patients-Admininstrator/static/js/2.c0186c9a.chunk.js",
     "static/js/2.c0186c9a.chunk.js.map": "/Patients-Admininstrator/static/js/2.c0186c9a.chunk.js.map",
     "index.html": "/Patients-Admininstrator/index.html",
-    "precache-manifest.d6d29e46bf39095e1eb2e35d7c2edb3d.js": "/Patients-Admininstrator/precache-manifest.d6d29e46bf39095e1eb2e35d7c2edb3d.js",
+    "precache-manifest.9d4e9feb2ddf74327e4df86084253ceb.js": "/Patients-Admininstrator/precache-manifest.9d4e9feb2ddf74327e4df86084253ceb.js",
     "service-worker.js": "/Patients-Admininstrator/service-worker.js",
     "static/css/main.4c798faf.chunk.css.map": "/Patients-Admininstrator/static/css/main.4c798faf.chunk.css.map",
     "static/js/2.c0186c9a.chunk.js.LICENSE.txt": "/Patients-Admininstrator/static/js/2.c0186c9a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f4e28184.js",
     "static/js/2.c0186c9a.chunk.js",
     "static/css/main.4c798faf.chunk.css",
-    "static/js/main.391ff665.chunk.js"
+    "static/js/main.dd8ef1e5.chunk.js"
   ]
 }
